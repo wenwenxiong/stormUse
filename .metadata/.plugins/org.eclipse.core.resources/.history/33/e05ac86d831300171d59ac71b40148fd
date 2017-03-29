@@ -1,0 +1,31 @@
+package stormUse.stormUse;
+
+import java.io.Serializable;
+import java.util.List;
+
+import org.apache.kafka.clients.consumer.ConsumerRecord;
+import org.apache.storm.tuple.Values;
+
+public class TridentKafkaClientWordCountNamedTopics {
+
+	private static final String TOPIC_1 = "test-trident";
+    private static final String TOPIC_2 = "test-trident-1";
+    private static final String KAFKA_LOCAL_BROKER = "localhost:9092";
+    
+    private KafkaTridentSpoutOpaque<String, String> newKafkaTridentSpoutOpaque() {
+        return new KafkaTridentSpoutOpaque<>(newKafkaSpoutConfig());
+    }
+    
+    private static Func<ConsumerRecord<String, String>, List<Object>> JUST_VALUE_FUNC = new JustValueFunc();
+    
+    /**
+     * Needs to be serializable
+     */
+    private static class JustValueFunc implements Func<ConsumerRecord<String, String>, List<Object>>, Serializable {
+    	@Override
+    	public List<Object> apply(ConsumerRecord<String, String> record) {
+            return new Values(record.value());
+        }
+    }
+    
+}

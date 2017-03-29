@@ -1,0 +1,5 @@
+package kafkaUse.kafkaUse.withStorm;
+
+public class CountBolt {
+
+}

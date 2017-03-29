@@ -1,0 +1,7 @@
+package kafkaUse.kafkaUse.withStorm;
+
+public class SplitBolt implements IRichBolt 
+{
+	private OutputCollector collector;
+
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="org.apache.storm.spout.Scheme"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.nio.charset.Charset"/>
+<fullyQualifiedTypeName name="java.nio.charset.CharsetDecoder"/>
+<fullyQualifiedTypeName name="java.nio.CharBuffer"/>
+<fullyQualifiedTypeName name="org.apache.storm.topology.base.BaseBasicBolt"/>
+<fullyQualifiedTypeName name="org.apache.storm.tuple.Tuple"/>
+<fullyQualifiedTypeName name="org.apache.storm.topology.BasicOutputCollector"/>
+<fullyQualifiedTypeName name="org.apache.storm.topology.OutputFieldsDeclarer"/>
+<fullyQualifiedTypeName name="org.apache.storm.kafka.spout.KafkaSpout"/>
+<fullyQualifiedTypeName name="org.apache.storm.kafka.bolt.KafkaBolt"/>
+<fullyQualifiedTypeName name="org.apache.storm.StormSubmitter"/>
+<fullyQualifiedTypeName name="org.apache.storm.utils.Utils"/>
+<fullyQualifiedTypeName name="java.io.UnsupportedEncodingException"/>
+<fullyQualifiedTypeName name="java.nio.ByteBuffer"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.Producer"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.KafkaProducer"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.ProducerRecord"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.KafkaConsumer"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecords"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecord"/>
+<fullyQualifiedTypeName name="org.apache.storm.tuple.Values"/>
+<fullyQualifiedTypeName name="org.apache.storm.tuple.Fields"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.apache.storm.task.OutputCollector"/>
+<fullyQualifiedTypeName name="org.apache.storm.topology.IRichBolt"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.apache.storm.Config"/>
+<fullyQualifiedTypeName name="org.apache.storm.kafka.ZkHosts"/>
+<fullyQualifiedTypeName name="org.apache.storm.kafka.BrokerHosts"/>
+<fullyQualifiedTypeName name="org.apache.storm.kafka.SpoutConfig"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="org.apache.storm.kafka.StringScheme"/>
+<fullyQualifiedTypeName name="org.apache.storm.spout.SchemeAsMultiScheme"/>
+<fullyQualifiedTypeName name="org.apache.storm.topology.TopologyBuilder"/>
+<fullyQualifiedTypeName name="org.apache.storm.kafka.KafkaSpout"/>
+<fullyQualifiedTypeName name="org.apache.storm.LocalCluster"/>
+</qualifiedTypeNameHistroy>

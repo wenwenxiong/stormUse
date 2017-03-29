@@ -1,0 +1,14 @@
+package kafkaUse.kafkaUse;
+
+public class SimpleConsumerDemo {
+	
+	private static void printMessages(ByteBufferMessageSet messageSet) throws UnsupportedEncodingException {
+        for (MessageAndOffset messageAndOffset : messageSet) {
+            ByteBuffer payload = messageAndOffset.message().payload();
+            byte[] bytes = new byte[payload.limit()];
+            payload.get(bytes);
+            System.out.println(new String(bytes, "UTF-8"));
+        }
+    }
+
+}

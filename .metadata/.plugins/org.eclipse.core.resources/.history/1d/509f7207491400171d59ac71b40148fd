@@ -1,0 +1,10 @@
+package kafkaUse.kafkaUse.withStorm;
+
+import org.apache.storm.task.OutputCollector;
+import org.apache.storm.topology.IRichBolt;
+
+public class SplitBolt implements IRichBolt 
+{
+	private OutputCollector collector;
+
+}
