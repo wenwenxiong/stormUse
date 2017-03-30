@@ -1997,3 +1997,328 @@ org.eclipse.jdt.core.JavaModelException: stormUse does not exist
 2017-03-29 18:19:24,760 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
 2017-03-29 18:19:24,763 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-29 18:19:24,763 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-29 19:35:40,744 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 09:08:33,682 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kafkaUse:kafkaUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/kafkaUse/pom.xml.
+2017-03-30 09:08:46,475 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:46,476 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/main/resources
+2017-03-30 09:08:46,483 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:46,483 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/test/resources
+2017-03-30 09:08:50,016 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kafkaUse:kafkaUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/kafkaUse/pom.xml.
+2017-03-30 09:08:52,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:52,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/main/resources
+2017-03-30 09:08:52,216 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:52,216 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/test/resources
+2017-03-30 09:08:53,127 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: stormUse:stormUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/stormUse/pom.xml.
+2017-03-30 09:08:54,565 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:54,566 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 09:08:54,569 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:54,569 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 09:08:56,297 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:56,297 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/main/resources
+2017-03-30 09:08:56,301 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:56,301 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/test/resources
+2017-03-30 09:08:56,654 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: stormUse:stormUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/stormUse/pom.xml.
+2017-03-30 09:08:57,176 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:57,176 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 09:08:57,178 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:08:57,179 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 12:05:48,363 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:05:48,448 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 12:05:48,451 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:05:48,485 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 12:08:26,603 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: stormUse:stormUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/stormUse/pom.xml.
+2017-03-30 12:08:28,546 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/storm/storm-jdbc/1.0.3/storm-jdbc-1.0.3.pom
+2017-03-30 12:08:29,085 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/storm/storm-jdbc/1.0.3/storm-jdbc-1.0.3.pom
+2017-03-30 12:08:29,401 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3/commons-lang3-3.3.pom
+2017-03-30 12:08:30,077 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3/commons-lang3-3.3.pom
+2017-03-30 12:08:30,493 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/2.4.3/HikariCP-2.4.3.pom
+2017-03-30 12:08:31,094 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/2.4.3/HikariCP-2.4.3.pom
+2017-03-30 12:08:31,636 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/storm/storm-jdbc/1.0.3/storm-jdbc-1.0.3.jar
+2017-03-30 12:08:32,945 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/storm/storm-jdbc/1.0.3/storm-jdbc-1.0.3.jar
+2017-03-30 12:08:33,225 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3/commons-lang3-3.3.jar
+2017-03-30 12:09:00,795 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3/commons-lang3-3.3.jar
+2017-03-30 12:09:01,021 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/2.4.3/HikariCP-2.4.3.jar
+2017-03-30 12:09:03,337 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/2.4.3/HikariCP-2.4.3.jar
+2017-03-30 12:09:04,437 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:09:04,438 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 12:09:04,441 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:09:04,441 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 12:09:06,263 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:09:06,263 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 12:09:06,266 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:09:06,267 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 12:17:29,771 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:17:29,772 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 12:17:29,775 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:17:29,775 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 12:17:50,508 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:17:50,508 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 12:17:50,513 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 12:17:50,513 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 13:56:59,307 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:56:59,307 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 13:56:59,310 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:56:59,311 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 13:57:26,643 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:57:26,643 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 13:57:26,645 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:57:26,646 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 13:58:23,793 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:58:23,794 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 13:58:23,797 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:58:23,798 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 13:59:21,207 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:59:21,207 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 13:59:21,210 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:59:21,210 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 13:59:42,797 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:59:42,797 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 13:59:42,800 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 13:59:42,800 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:00:11,837 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:00:11,838 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:00:11,841 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:00:11,842 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:00:24,137 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:00:24,137 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:00:24,140 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:00:24,140 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:00:29,714 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:00:29,715 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:00:29,721 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:00:29,721 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:01:06,844 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:01:06,844 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:01:06,847 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:01:06,848 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:01:11,448 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:01:11,448 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:01:11,451 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:01:11,452 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:01:51,515 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:01:51,515 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:01:51,518 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:01:51,519 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:02:49,853 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:02:49,854 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:02:49,858 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:02:49,858 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:03:58,524 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:03:58,524 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:03:58,537 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:03:58,538 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:04:29,253 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:04:29,253 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:04:29,255 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:04:29,255 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:05:14,643 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:05:14,644 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:05:14,647 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:05:14,647 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:09:13,939 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:09:13,940 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:09:13,944 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:09:13,944 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:09:23,536 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:09:23,536 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:09:23,539 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:09:23,544 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:10:07,248 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:10:07,249 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:10:07,251 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:10:07,252 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:11:48,178 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:11:48,178 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:11:48,182 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:11:48,182 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:12:26,406 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:12:26,407 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:12:26,410 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:12:26,410 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:13:06,085 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:13:06,085 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:13:06,092 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:13:06,092 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:13:49,453 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:13:49,453 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:13:49,456 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:13:49,457 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:16:23,673 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:16:23,673 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:16:23,676 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:16:23,676 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:16:58,298 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:16:58,298 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:16:58,300 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:16:58,300 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:17:59,975 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:17:59,975 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:17:59,978 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:17:59,978 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:19:52,950 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:19:52,951 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:19:52,953 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:19:52,953 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:22:09,268 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:22:09,268 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:22:09,271 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:22:09,271 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:49:20,286 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/clouder/stormUse/stormUse
+2017-03-30 14:49:20,287 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B assembly:assembly
+2017-03-30 14:52:57,699 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: stormUse:stormUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/stormUse/pom.xml.
+2017-03-30 14:52:58,197 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:52:58,197 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 14:52:58,200 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:52:58,201 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 14:53:09,299 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/clouder/stormUse/stormUse
+2017-03-30 14:53:09,299 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B assembly:assembly
+2017-03-30 14:58:27,450 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kafkaUse:kafkaUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/kafkaUse/pom.xml.
+2017-03-30 14:58:28,703 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:58:28,710 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/main/resources
+2017-03-30 14:58:28,713 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:58:28,713 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/test/resources
+2017-03-30 14:58:29,516 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kafkaUse:kafkaUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/kafkaUse/pom.xml.
+2017-03-30 14:58:31,597 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:58:31,598 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/main/resources
+2017-03-30 14:58:31,601 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 14:58:31,602 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/test/resources
+2017-03-30 15:29:27,215 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 15:29:27,215 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 15:29:27,218 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 15:29:27,219 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 15:29:37,563 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/clouder/stormUse/stormUse
+2017-03-30 15:29:37,564 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B assembly:assembly
+2017-03-30 15:35:00,571 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/storm/storm-jdbc/1.0.3/storm-jdbc-1.0.3-sources.jar
+2017-03-30 15:35:02,994 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/storm/storm-jdbc/1.0.3/storm-jdbc-1.0.3-sources.jar
+2017-03-30 15:35:03,121 [Worker-67] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.storm:storm-jdbc:1.0.3
+2017-03-30 15:35:03,430 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 15:35:03,430 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 15:35:03,433 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 15:35:03,433 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 15:47:59,676 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/clouder/stormUse/stormUse
+2017-03-30 15:47:59,676 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean compile assembly:single
+2017-03-30 15:50:49,934 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/clouder/stormUse/stormUse
+2017-03-30 15:50:49,935 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package
+2017-03-30 17:15:57,803 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:15:57,803 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 17:15:57,806 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:15:57,806 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 17:15:58,830 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:15:58,830 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 17:15:58,833 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:15:58,833 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 17:16:04,169 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:16:04,169 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 17:16:04,172 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:16:04,172 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 17:16:32,621 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:16:32,621 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 17:16:32,624 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:16:32,625 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 17:19:47,091 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:19:47,091 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 17:19:47,093 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:19:47,093 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 17:20:04,408 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:20:04,408 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 17:20:04,410 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:20:04,410 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 17:20:07,107 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:20:07,107 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 17:20:07,110 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:20:07,110 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 17:41:03,807 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:41:03,808 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 17:41:03,811 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 17:41:03,811 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:09:54,178 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kafkaUse:kafkaUse:0.0.1-SNAPSHOT @ /home/clouder/stormUse/kafkaUse/pom.xml.
+2017-03-30 18:09:56,514 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:09:56,514 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/main/resources
+2017-03-30 18:09:56,517 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:09:56,517 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/kafkaUse/src/test/resources
+2017-03-30 18:15:23,849 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:15:23,849 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:15:23,853 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:15:23,854 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:15:40,676 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:15:40,677 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:15:40,681 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:15:40,682 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:18:12,025 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:18:12,025 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:18:12,028 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:18:12,029 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:18:48,199 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:18:48,199 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:18:48,201 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:18:48,202 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:20:14,930 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:20:14,931 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:20:14,933 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:20:14,933 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:21:38,884 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:21:38,884 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:21:38,888 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:21:38,888 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:34:39,239 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:34:39,239 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:34:39,245 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:34:39,245 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:36:21,183 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:36:21,184 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:36:21,186 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:36:21,186 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:36:39,180 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:36:39,180 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:36:39,183 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:36:39,183 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:36:54,793 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:36:54,793 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:36:54,796 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:36:54,797 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:37:53,061 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:37:53,061 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:37:53,064 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:37:53,064 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:38:34,776 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:38:34,776 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:38:34,778 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:38:34,779 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:38:49,757 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:38:49,758 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:38:49,761 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:38:49,761 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:42:58,517 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:42:58,517 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:42:58,519 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:42:58,527 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:43:28,422 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/clouder/stormUse/stormUse
+2017-03-30 18:43:28,423 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package
+2017-03-30 18:45:18,441 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:45:18,441 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:45:18,446 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:45:18,447 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:45:19,487 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:45:19,487 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 18:45:19,494 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 18:45:19,494 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 18:54:06,630 [Worker-75] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/clouder/stormUse/stormUse
+2017-03-30 18:54:06,630 [Worker-75] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package
+2017-03-30 19:03:48,557 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:03:48,558 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 19:03:48,568 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:03:48,568 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 19:03:58,644 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:03:58,645 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 19:03:58,647 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:03:58,647 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 19:04:01,088 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:04:01,088 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 19:04:01,091 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:04:01,091 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 19:04:10,733 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:04:10,733 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/main/resources
+2017-03-30 19:04:10,735 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:04:10,736 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/clouder/stormUse/stormUse/src/test/resources
+2017-03-30 19:04:49,934 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/clouder/stormUse/stormUse
+2017-03-30 19:04:49,935 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package

@@ -1,0 +1,6 @@
+package stormUse.stormUse.mysql.spout;
+
+public class UserSpout implements IRichSpout
+{
+
+}

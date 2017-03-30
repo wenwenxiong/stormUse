@@ -1,0 +1,5 @@
+package stormUse.stormUse.mysql.topology;
+
+public class UserPersistanceTopology {
+
+}

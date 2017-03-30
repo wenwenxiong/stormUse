@@ -29,6 +29,12 @@
     </dependency>
     <dependency>
        <groupId>org.apache.storm</groupId>
+       <artifactId>storm-jdbc</artifactId>
+       <version>1.0.3</version>
+       <scope>provided</scope>
+    </dependency>
+    <dependency>
+       <groupId>org.apache.storm</groupId>
        <artifactId>storm-kafka</artifactId>
        <version>1.0.3</version>
        <scope>provided</scope>
@@ -72,7 +78,7 @@
         <archive>
           <manifest>
              <!--这里要替换成jar包main方法所在类 -->
-            <mainClass>stormUse.stormUse.StormKafkaTopo</mainClass>
+            <mainClass>stormUse.stormUse.mysql.topology.UserPersistanceTopology</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
