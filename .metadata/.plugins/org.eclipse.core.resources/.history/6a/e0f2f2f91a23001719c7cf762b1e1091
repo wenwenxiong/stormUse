@@ -1,0 +1,13 @@
+package stormUse.stormUse.java8stream;
+
+import org.apache.storm.timer.schedule_recurring.this__1737;
+
+public class Student 
+{
+	String name;
+	
+	public Student(String name) 
+	{
+		this.name = name;
+	}
+}

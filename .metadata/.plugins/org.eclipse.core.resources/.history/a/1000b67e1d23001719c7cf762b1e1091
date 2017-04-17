@@ -1,0 +1,20 @@
+package stormUse.stormUse.java8stream;
+
+public class DebugPrint<T> 
+{
+	Boolean debug;
+	
+	public DebugPrint(Boolean debug)
+	{
+		this.debug = debug;
+	}
+	
+	<T> void print(Boolean debug, T Obj)
+	{
+		if (debug)
+		{
+			System.out.print(Obj);
+		}
+	}
+
+}

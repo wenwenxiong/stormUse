@@ -1,0 +1,46 @@
+package stormUse.stormUse.java8stream;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.StringJoiner;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
+
+public class CollectUse
+{
+	public static void main( String[] args)
+	{
+		List<Person> persons = Arrays.asList(
+				new Person("Max", 18),
+				new Person("Peter", 23),
+				new Person("Pamela", 23),
+				new Person("David", 12));
+		
+		//stream to list
+		List<Person> filterPersons = persons.stream().filter( p -> p.age > 18 ).collect(Collectors.toList());
+		System.out.println(filterPersons);
+		
+		//stream to set
+		Set<Person> Persons = persons.stream().filter( p -> p.name.startsWith("P")).collect(Collectors.toSet());
+		System.out.println(Persons);
+		
+		//stream to map
+		Map<String, Person> personsMap = persons.stream().collect(Collectors.toMap(Person::getName, p -> p));
+		Map<String, List<Person>> personMaps = persons.stream().collect(Collectors.groupingBy(Person::getName));
+		System.out.println(personsMap);
+		System.out.println(personMaps);
+		
+		// collect join
+		Collector<Person, StringJoiner, String> personNameCollector = Collector.of(
+				() -> new StringJoiner(" | "),
+				(j, p) -> j.add(p.name.toUpperCase()),
+				(j1, j2) -> j1.merge(j2), 
+				StringJoiner::toString);
+		String names = persons.stream().collect(personNameCollector);
+		System.out.println(names);
+		
+	}
+
+}

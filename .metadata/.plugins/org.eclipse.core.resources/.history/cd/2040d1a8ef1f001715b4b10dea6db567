@@ -1,0 +1,34 @@
+package stormUse.stormUse.java8function;
+
+import java.util.List;
+import java.util.function.Consumer;
+import java.util.function.Supplier;
+
+import com.google.common.collect.Lists;
+
+
+public class ConsumerTest 
+{
+	public static void main(String[] args)
+	{
+		Consumer<String> consumer = ConsumerTest::printNames;
+		
+		consumer.accept("consumer: xiongwenwen");
+		
+		List<String> names = Lists.newArrayList("David", "Sam", "Ben");
+		names.stream().forEach(consumer);
+		
+		names.stream().forEach( (x) -> { printNames(() -> x); });
+	}
+
+	private static void printNames(String name)
+	{
+		System.out.println(name);
+		
+	}
+	
+	private static void printNames(Supplier<String> supplier)
+	{
+		System.out.println(supplier.get());
+	}
+}

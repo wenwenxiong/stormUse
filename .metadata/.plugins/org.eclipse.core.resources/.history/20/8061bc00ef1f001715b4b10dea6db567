@@ -1,0 +1,26 @@
+package stormUse.stormUse.java8function;
+
+import java.util.function.Consumer;
+import java.util.function.Supplier;
+
+
+public class ConsumerTest 
+{
+	public static void main(String[] args)
+	{
+		Consumer<String> consumer = ConsumerTest::printNames;
+		
+		consumer.accept("xiongwenwen");
+	}
+
+	private static void printNames(String name)
+	{
+		System.out.println(name);
+		
+	}
+	
+	private static void printNames(Supplier<String> supplier)
+	{
+		System.out.println(supplier.get());
+	}
+}
