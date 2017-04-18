@@ -1,5 +1,0 @@
-package kafkaUse.kafkaUse.withStorm;
-
-public class SplitBolt {
-
-}
