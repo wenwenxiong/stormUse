@@ -88,7 +88,6 @@ public class CollectUse
 		//list.stream().peek(list::remove).forEach(i -> debugPrint.print(true, i));  //error
 		list.stream().sorted().peek(list::remove).forEach(i -> debugPrint.print(true, i));
 		
-		
 	}
 
 }
